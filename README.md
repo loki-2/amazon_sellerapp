@@ -1,4 +1,4 @@
-# Scratch Flutter E-commerce App
+# Amazon seller app Concept
 
 A Flutter-based e-commerce application that provides a platform for sellers to manage their products and orders.
 
