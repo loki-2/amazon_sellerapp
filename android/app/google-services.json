@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9944194929",
+    "project_id": "dashwave-guest-dating-app",
+    "storage_bucket": "dashwave-guest-dating-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9944194929:android:f1acf5f89f13cfe27420d0",
+        "android_client_info": {
+          "package_name": "com.dashwave.amazonseller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh-wpnKbTAFHgqwo-KcR_oaDhfWY2_72M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
